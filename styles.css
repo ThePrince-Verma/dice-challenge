@@ -1,0 +1,35 @@
+.container{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    margin: 20px;
+    font-size: 6rem;
+    font-family: 'Courier New', Courier, monospace;
+    
+    color:purple
+
+}
+body{
+background-color: grey;
+}
+.dice{
+    margin: 50px;
+    text-align: center;
+    display: inline-block;
+}
+p{
+    margin: 10px;
+    font-size: 3rem;
+    font-family: cursive;
+    
+    color: purple
+    
+}
+footer{
+    margin-top: 3%;
+    font-size:1.5rem;
+    text-align: center;
+    color: black;
+}
